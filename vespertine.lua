@@ -1,0 +1,21 @@
+local variants = {
+	main = {
+		_nc = "#1B1F25",
+		base = "",
+		surface = "",
+		overlay = "",
+		muted = "",
+		subtle = "",
+		text = "#9A9184",
+		love = "#FF8080",
+		gold = "#FFB578",
+		DUST = "#D3D7CF",
+		rose = "#FFF3CA",
+		pine = "#00FFBB",
+		foam = "#729FCF",
+		iris = "#FBADFF",
+		highlight_low = "",
+		highlight_high = "",
+		none = "NONE",
+	},
+}
