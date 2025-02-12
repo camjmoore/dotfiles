@@ -1,0 +1,38 @@
+nvim .config/zsh/.zshrc
+sudo apt install fzf
+which git
+which zoxide
+sudo apt install zoxide
+touch load_characters.py
+z ash
+z zsh
+cd themes
+z scriptsd
+z alien-etl
+z scripts
+ls
+git status
+clear
+z
+z .config/zsh
+nvim .
+z .config/zsh
+nvim .zsh
+z alien-etl
+git status
+nbim
+z data
+z processed
+ls
+clear
+cd Repos
+z alien-etl
+giz
+z
+ls
+nvim colors.py
+z alien-etl
+ls
+git status
+git clean -f
+clear
